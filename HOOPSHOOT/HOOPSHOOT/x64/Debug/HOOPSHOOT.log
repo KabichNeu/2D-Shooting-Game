@@ -1,0 +1,109 @@
+﻿  Source.cpp
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(69,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,76): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,76): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,76): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,76): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,76): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,44): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,44): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,44): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,44): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(249,44): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,78): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,78): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,78): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,78): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,78): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,46): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,46): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,46): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,46): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(263,46): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,81): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,81): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,81): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,81): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,81): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,49): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,49): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,49): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,49): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(270,49): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,88): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,88): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,88): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,88): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,88): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,56): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,56): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,56): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,56): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(277,56): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,84): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,84): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,84): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,84): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,84): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,52): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,52): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,52): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,52): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(367,52): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(388,39): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(388,39): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(388,39): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(388,39): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(388,39): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,62): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,62): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,62): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,62): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,62): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,38): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,38): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,38): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,38): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(392,38): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,33): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,33): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,33): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,33): warning C4244:             T=float
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,33): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,23): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,23): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,23): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,23): warning C4244:             T=float
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(806,23): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(864,87): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(864,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(874,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(885,87): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(885,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(894,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(905,87): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(905,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(915,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(926,87): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(926,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(935,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(946,87): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(946,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(955,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(966,87): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(966,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(975,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(988,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1088,14): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,79): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,79): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,79): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,79): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,79): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,47): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,47): warning C4244:         with
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,47): warning C4244:         [
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,47): warning C4244:             T=unsigned int
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1209,47): warning C4244:         ]
+D:\Practice codes\HOOPSHOOT\HOOPSHOOT\Source.cpp(1212,46): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  HOOPSHOOT.vcxproj -> D:\Practice codes\HOOPSHOOT\x64\Debug\HOOPSHOOT.exe
